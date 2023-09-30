@@ -1,0 +1,25 @@
+{
+"@context": [
+"https://www.w3.org/2022/wot/td/v1.1"
+],
+"@type": "tm:ThingModel",
+"title": "Autovettura",
+"description": "Digital Twin of an Autovettura",
+"version": {
+"model": "1.0.0"
+},
+"properties": {
+"Marca": {title": "Marca",
+"type": "string"
+"readOnly": true
+},
+"Modello": {title": "Modello",
+"type": "string"
+"readOnly": true
+},
+"Targa": {title": "Targa",
+"type": "string"
+"readOnly": true
+},
+
+}
