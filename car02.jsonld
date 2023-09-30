@@ -21,5 +21,26 @@
 "type": "string"
 "readOnly": true
 },
-
+"features": {
+    "Proprietario": {
+      "definition": [
+        "https://github.com/sanzanig/sanza/edit/main/proprietario01.jsonldd",
+       
+      ]
+      },
+  "features": {
+    "Proprietario": {
+      "definition": [
+        "https://github.com/sanzanig/sanza/edit/main/proprietario01.jsonldd",
+       
+      ]
+      },
+    "features": {
+    "Cruscotto": {
+      "definition": [
+        "https://github.com/sanzanig/sanza/edit/main/cruscotto01.jsonldd",
+       
+      ]
+      }
+  
 }
