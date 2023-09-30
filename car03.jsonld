@@ -12,13 +12,13 @@
 "model": "1.0.0"
 },
 "attributes": {
-"marca": {title": "Marca",
+"marca": {"title": "Marca",
 "type": "string"
 },
-"modello": {title": "Modello",
+"modello": {"title": "Modello",
 "type": "string"
 },
-"targa": {title": "Targa",
+"targa": {"title": "Targa",
 "type": "string"
 }
   },
