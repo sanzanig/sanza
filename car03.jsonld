@@ -4,7 +4,6 @@
 ],
 "@type": "tm:ThingModel",
 "thingId": "my.sanza.space:mycar",  
-  uiouiouiouio
 "policyId": "my.sanza.space:mycar",  
 "title": "Autovettura",
 "description": "Digital Twin of an Autovettura",
@@ -15,6 +14,7 @@
 "marca": {title": "Marca",
 "type": "string",
 "readOnly": true
+          iyuiyuiyui
 },
 "modello": {title": "Modello",
 "type": "string",
