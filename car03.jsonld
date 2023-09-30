@@ -5,6 +5,7 @@
 "@type": "tm:ThingModel",
 "thingId": "org.eclipse.ditto:mycar",  
 "policyId": "org.eclipse.ditto:mycar",  
+"definition": "https://github.com/sanzanig/sanza/blob/main/car03.jsonld",
 "title": "Autovettura",
 "description": "Digital Twin of an Autovettura",
 "version": {
