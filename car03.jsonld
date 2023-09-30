@@ -11,11 +11,11 @@
 "model": "1.0.0"
 },
 "attributes": {
-"Marca": {title": "Marca",
+"marca": {title": "Marca",
 "type": "string"
 "readOnly": true
 },
-"Modello": {title": "Modello",
+"modello": {title": "Modello",
 "type": "string"
 "readOnly": true
 },
