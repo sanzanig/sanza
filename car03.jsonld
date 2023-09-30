@@ -4,7 +4,7 @@
 ],
 "@type": "tm:ThingModel",
 "title": "Autovettura",
-  "thingId": "org.eclipse.ditto:mycar",
+  "thingId": "{org.eclipse.ditto:mycar}",
 "description": "Digital Twin of an Autovettura",
 "version": {
 "model": "1.0.0"
