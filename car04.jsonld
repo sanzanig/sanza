@@ -1,0 +1,34 @@
+{
+"@context": [
+"https://www.w3.org/2022/wot/td/v1.1"
+],
+"@type": "tm:ThingModel",
+"thingId": "org.eclipse.ditto:mycar",  
+"policyId": "org.eclipse.ditto:mycar",  
+"definition": "https://github.com/sanzanig/sanza/blob/main/car03.jsonld",
+"title": "Autovettura",
+"description": "Digital Twin of an Autovettura",
+"version": {
+"model": "1.0.0"
+},
+"attributes": {
+"marca": "Ford",
+"modello": "Focus"
+},
+"features": {
+"Proprietario": {
+     
+      "properties" :{
+        "nome" : "",
+        "cognome" : ""
+        }
+     },
+    "Cruscotto": {
+     
+      "properties" :{
+        "velocita" : "",
+        "giri" : ""
+        }   
+  }
+  }
+}
