@@ -9,15 +9,15 @@
 "model": "1.0.0"
 },
 "properties": {
-"Marca": {title": "Nome",
+"Nome": {title": "Nome",
 "type": "string"
 "readOnly": true
 },
-"Modello": {title": "Cognome",
+"Cognome": {title": "Cognome",
 "type": "string"
 "readOnly": true
 },
-"Targa": {title": "Indirizzo",
+"Indirizzo": {title": "Indirizzo",
 "type": "string"
 "readOnly": true
 },
