@@ -12,15 +12,15 @@
 },
 "attributes": {
 "marca": {title": "Marca",
-"type": "string"
+"type": "string",
 "readOnly": true
 },
 "modello": {title": "Modello",
-"type": "string"
+"type": "string",
 "readOnly": true
 },
 "Targa": {title": "Targa",
-"type": "string"
+"type": "string",
 "readOnly": true
 }
   },
