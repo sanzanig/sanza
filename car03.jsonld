@@ -19,7 +19,7 @@
 "type": "string",
 "readOnly": true
 },
-"Targa": {title": "Targa",
+"targa": {title": "Targa",
 "type": "string",
 "readOnly": true
 }
