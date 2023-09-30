@@ -20,8 +20,8 @@
 "Targa": {title": "Targa",
 "type": "string"
 "readOnly": true
-},
-  }
+}
+  },
 "features": {
 "Proprietario": {
      
