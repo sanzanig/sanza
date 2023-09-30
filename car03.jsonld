@@ -26,14 +26,14 @@
     "Proprietario": {
      
       "properties" :{
-        "nome" : ""
+        "nome" : "",
         "cognome" : ""
         }
 
     "Cruscotto: {
      
       "properties" :{
-        "velocita" : ""
+        "velocita" : "",
         "giri" : ""
         }   
   }
