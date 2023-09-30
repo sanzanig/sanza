@@ -1,10 +1,10 @@
 {
+"thingId": "my.sanza.space:mycar",  
 "@context": [
 "https://www.w3.org/2022/wot/td/v1.1"
 ],
 "@type": "tm:ThingModel",
 "title": "Autovettura",
-"thingId": "my.sanza.space:mycar",
 "description": "Digital Twin of an Autovettura",
 "version": {
 "model": "1.0.0"
