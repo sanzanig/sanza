@@ -23,7 +23,7 @@
 },
   }
 "features": {
-    "Anagrafe": {
+"Proprietario": {
      
       "properties" :{
         "nome" : "",
