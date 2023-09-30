@@ -28,13 +28,6 @@
        
       ]
       },
-  "features": {
-    "Proprietario": {
-      "definition": [
-        "https://github.com/sanzanig/sanza/edit/main/proprietario01.jsonldd",
-       
-      ]
-      },
     "features": {
     "Cruscotto": {
       "definition": [
