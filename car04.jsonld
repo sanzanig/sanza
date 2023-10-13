@@ -10,11 +10,14 @@
 "version": {
 "model": "1.0.0"
 },
- 
-"features": {
-"Proprietario": {
-       "definition": ["https://github.com/sanzanig/sanza/blob/main/provlamp.jsonld"
- ],
+ "links": [
+    {
+      "rel": "tm:submodel",
+      "href": "https://github.com/sanzanig/sanza/blob/main/provlamp.jsonld",
+      "type": "application/tm+json",
+      "instanceName": "Spot1"
+    },
+],
 "properties":{
   "nome" : "Matteo"
   
