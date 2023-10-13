@@ -13,7 +13,7 @@
  
 "features": {
 "Proprietario": {
-       "definition": ["https://github.com/sanzanig/sanza/blob/main/cardef.jsonld"
+       "definition": ["https://github.com/sanzanig/sanza/blob/main/provlamp.jsonld"
  ],
 "properties":{
   "nome" : "Matteo"
