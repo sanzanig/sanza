@@ -9,7 +9,9 @@
   },
   
   "tm:optional": [],
-         "properties" :{
-        "nome" : "string"
+   "properties" :{
+        "nome" : {
+          type :"string"
         }
+     }
   }
