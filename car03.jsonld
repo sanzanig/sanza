@@ -31,6 +31,9 @@
         "cognome" : "string"
         }
  ]
+"properties":{
+  "nome" : "Matteo"
+  
 }
 
   }
