@@ -10,7 +10,7 @@
   "links": [
     {
       "rel": "tm:extends",
-      "href": "https://eclipse-ditto.github.io/ditto-examples/wot/models/switchable-1.0.0.tm.jsonld",
+      "href": "https://github.com/sanzanig/sanza/blob/main/cardef.jsonld",
       "type": "application/tm+json"
     }
   ],
