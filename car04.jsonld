@@ -10,8 +10,8 @@
 "version": {
 "model": "1.0.0"
 },
-"properties":{
-  "nome" : "Matteo"
+"attributes":{
+  "marca" : "Ford"
   
 }
 
