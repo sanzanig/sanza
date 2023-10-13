@@ -24,19 +24,17 @@
   },
 "features": {
 "Proprietario": {
+       "definition": [
      
       "properties" :{
         "nome" : "string",
         "cognome" : "string"
         }
-     },
-    "Cruscotto": {
-     
-      "properties" :{
-        "velocita" : "string",
-        "giri" : "string"
-        }   
-  }
-  }
+ ]
 }
+
+  }
+ }
+  
+  
 
