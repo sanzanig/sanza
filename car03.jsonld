@@ -1,6 +1,4 @@
 {
-
-"definition": "https://github.com/sanzanig/sanza/blob/main/car03.jsonld
 "attributes": {
 "marca": {"title": "Marca",
 "type": "string"
