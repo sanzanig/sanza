@@ -25,7 +25,7 @@
 "features": {
 "Proprietario": {
        "definition": ["https://github.com/sanzanig/sanza/blob/main/cardef.jsonld"
- ]
+ ],
 "properties":{
   "nome" : "Matteo"
   
