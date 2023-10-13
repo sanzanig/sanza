@@ -7,13 +7,7 @@
   "version": {
     "model": "1.0.0"
   },
-  "links": [
-    {
-      "rel": "tm:extends",
-      "href": "https://github.com/sanzanig/sanza/blob/main/cardef.jsonld",
-      "type": "application/tm+json"
-    }
-  ],
+  
   "tm:optional": [],
          "properties" :{
         "nome" : "string",
