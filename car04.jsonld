@@ -11,22 +11,20 @@
 "version": {
 "model": "1.0.0"
 },
-"attributes": {
-"marca": "Ford",
-"modello": "Focus"
-},
+
 "features": {
 "Proprietario": {
-     
-      "properties" :{
-        "nome" : "",
-        "cognome" : ""
-        }
-     },
-    "Cruscotto": {
-     
-      "properties" :{
-        "velocita" : "",
+       "definition": ["https://github.com/sanzanig/sanza/blob/main/cardef.jsonld"
+ ],
+"properties":{
+  "nome" : "Matteo"
+  
+}
+
+  }
+ }
+  
+  
         "giri" : ""
         }   
   }
