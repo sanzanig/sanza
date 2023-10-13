@@ -15,4 +15,8 @@
     }
   ],
   "tm:optional": [],
-  "properties": {
+         "properties" :{
+        "nome" : "string",
+        "cognome" : "string"
+        }
+  }
