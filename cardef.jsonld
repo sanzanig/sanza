@@ -11,7 +11,7 @@
   "tm:optional": [],
    "properties" :{
         "nome" : {
-          type :"string"
+        "type" :"string"
         }
      }
   }
