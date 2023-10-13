@@ -10,7 +10,6 @@
   
   "tm:optional": [],
          "properties" :{
-        "nome" : "string",
-        "cognome" : "string"
+        "nome" : "string"
         }
   }
