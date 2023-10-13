@@ -11,13 +11,7 @@
 "version": {
 "model": "1.0.0"
 },
-  "tm:optional": [],
-  "properties": {
-    "manufacturer": {
-      "title": "Manufacturer",
-      "type": "string",
-      "readOnly": true
-    },
+ 
 "features": {
 "Proprietario": {
        "definition": ["https://github.com/sanzanig/sanza/blob/main/cardef.jsonld"
